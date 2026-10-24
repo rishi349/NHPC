@@ -1,0 +1,1 @@
+1)one cpu thread per whole gpu's is sequntial i think we can optimize it 
